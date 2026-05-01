@@ -20,7 +20,8 @@ An AI-powered workflow that analyzes resumes and provides structured feedback us
 Webhook → Resume Input → AI Analysis → Output Response
 
 📷 Screenshots
-(Add workflow screenshot here)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ae3a30c4-7b80-4a8b-96ea-cd0630b8cfbb" />
+
 
 🧪 How to Run
 1. Import `workflow.json` into n8n
