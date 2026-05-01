@@ -1,4 +1,4 @@
-# n8n
+# n8n project
 🤖 AI Resume Analyzer (n8n + LLM)
 
 🚀 Overview
